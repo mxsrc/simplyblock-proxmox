@@ -1,0 +1,17 @@
+simplyblock-proxmox (0.1.0-1) UNRELEASED; urgency=medium
+
+  [ Max Schettler ]
+  * Initial commit
+  * Add barebones prototype
+  * Prototype for basic use
+  * (Dis-)connect volumes on creation/deletion
+  * Implement snapshots
+  * Untaint info received from API
+  * Implement status
+  * Support containers
+  * Fix stolen message
+  * Use multipath NVMe-oF
+  * Add packaging metadata
+  * Add basic readme
+
+ -- Max Schettler <max@simplyblock.io>  Thu, 13 Mar 2025 14:21:41 +0000
