@@ -1,3 +1,18 @@
+simplyblock-proxmox (0.2.0-1) unstable; urgency=medium
+
+  * Indicate helpers
+  * Fix whitespace error
+  * Await successful LVol deletion
+  * Filter non-online LVols on activation
+  * Split up lvol helpers
+  * Delete snapshots associated along with LVol
+  * Fix error message
+  * Allow creation of volumes smaller than 100MiB
+  * Add testing script
+  * Add packaging workflow
+
+ -- Max Schettler <max@simplyblock.io>  Thu, 20 Mar 2025 11:56:58 +0000
+
 simplyblock-proxmox (0.1.0-1) unstable; urgency=medium
 
   * Initial commit
